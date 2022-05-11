@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Github repo]()
+- [Solution URL](https://anparis.github.io/order-summary-component/)
+- [Github repo](https://github.com/anparis/order-summary-component)
 
 ## My process
 
